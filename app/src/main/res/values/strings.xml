@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Phone auth firebase</string>
+
+    <string name="text2">We Will Send you one time Otp On this given Number</string>
+    <string name="text3">Enter Mobile Number</string>
+    <string name="text4">Please Enter the Otp Sent to you </string>
+</resources>
